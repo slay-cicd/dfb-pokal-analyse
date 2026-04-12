@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://dfb-pokal-analyse.de/sitemap.xml
